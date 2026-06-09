@@ -1,0 +1,8 @@
+# Direct runtime dependencies for CoMET-MIL.
+# Transitive packages are intentionally left for pip to resolve.
+matplotlib>=3.9,<4
+numpy>=2.0,<3
+scipy>=1.13,<2
+torch>=2.8,<3
+tqdm>=4.67,<5
+wfdb>=4.3,<5
